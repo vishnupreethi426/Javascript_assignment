@@ -1,0 +1,19 @@
+body {
+  font-family: Arial;
+  background: linear-gradient(135deg, #fbc2eb, #a6c1ee);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.card {
+  background: white;
+  padding: 20px;
+  border-radius: 12px;
+}
+
+button {
+  background: #9c27b0;
+  color: white;
+}
